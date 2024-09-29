@@ -1,5 +1,7 @@
 # UoN-Annual-Freshers-Week-Programming-Competition-2024
 
+Worked in a team with [Matthew Ranson](https://github.com/MattR2718) and [Himi Dias](https://github.com/himiDias).
+
 ## Problems
 
 |Problem|Name|Completed|
